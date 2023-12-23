@@ -1,0 +1,141 @@
+#Nik a:hover {
+    color: orange;
+}
+
+#list img {
+    width: 3%;
+}
+
+#span span {
+    font-size: 13px;
+}
+
+#span1 span {
+    font-size: 13px;
+}
+
+#span2 span {
+    font-size: 13px;
+}
+
+#Nikk1:hover {
+    background: rgb(248, 183, 61);
+    color: white;
+}
+
+#Nikk2:hover {
+    background: rgb(248, 183, 61);
+    color: white;
+}
+
+#Nikk3:hover {
+    background: rgb(248, 183, 61);
+    color: white;
+}
+
+#footer1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/footer1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+@media only screen and (max-width:576px) {
+
+    #img1,
+    #img2,
+    #img3 {
+        height: 78vh;
+    }
+
+    #a1,
+    #n1,
+    #m1 {
+        margin-bottom: 170px;
+    }
+
+    #a1 h5{
+        font-size: 30px;
+    }
+    #n1 h5{
+        font-size: 30px;
+    }
+    #m1 h5{
+        font-size: 30px;
+    }
+
+    #icon {
+        margin: -45px 0px 0px 0px;
+    }
+
+    #gym img {
+        width: 60%;
+    }
+
+}
+
+@media only screen and (min-width:768px) {
+    #a1 {
+        margin: 0px 140px 50px 0px;
+    }
+
+    #a1 h5 {
+        font-size: 35px;
+    }
+
+    #n1 {
+        margin: 0px 140px 50px 0px;
+    }
+
+    #n1 h5 {
+        font-size: 35px;
+    }
+
+    #m1 {
+        margin: 0px 140px 50px 0px;
+    }
+
+    #m1 h5 {
+        font-size: 35px;
+    }
+
+    #video {
+        width: 500px;
+        height: 280px;
+    }
+}
+
+@media only screen and (min-width:992px) {
+    #a1 {
+        margin: 0px 200px 200px 0px;
+
+    }
+
+    #a1 h5 {
+        font-size: 50px;
+    }
+
+    #n1 {
+        margin: 0px 200px 200px 0px;
+
+    }
+
+    #n1 h5 {
+        font-size: 50px;
+    }
+
+    #m1 {
+        margin: 0px 200px 200px 0px;
+
+    }
+
+    #m1 h5 {
+        font-size: 50px;
+    }
+
+    #video {
+        width: 800px;
+        height: 350px;
+    }
+
+
+}
