@@ -1,1 +1,1 @@
-In this Project i had done full responsive Gym template developed in HTML,CSS,BOOTSTRAP,JAVASCRIPT.
+I built this AirFly Project by using HTML5, CSS3 & Bootstrap. I also made this project fully responsive by utilizing Bootstrap Grid's Row and Column Systems.
